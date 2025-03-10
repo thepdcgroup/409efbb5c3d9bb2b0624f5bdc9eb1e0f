@@ -1,0 +1,75 @@
+Question: Faster-than-light travel is often referred to as ____ travel.
+Choices: superluminal | quazomatic
+Answer: superluminal
+Question: The speed of light in a vacuum is approximately ____ kilometers per second.
+Choices: 480120 | 299792
+Answer: 299792
+Question: According to Einstein's theory of relativity, objects with mass cannot exceed the speed of ____.
+Choices: fluxion | light
+Answer: light
+Question: A common science fiction concept for faster-than-light travel is a ____ drive.
+Choices: fission | warp
+Answer: warp
+Question: The Alcubierre Drive is a theoretical concept that involves creating a ____ bubble.
+Choices: spacetime | polarglaze
+Answer: spacetime
+Question: A wormhole is a hypothetical shortcut through ____.
+Choices: spacetime | darkflux
+Answer: spacetime
+Question: The idea of a warp drive was popularized by the television series ____.
+Choices: Cosmic Frontier | Star Trek
+Answer: Star Trek
+Question: One problem with faster-than-light travel is the violation of ____.
+Choices: magnotropy | causality
+Answer: causality
+Question: Scientists theorize that exotic matter with ____ energy might be needed for a warp drive.
+Choices: hyperflux | negative
+Answer: negative
+Question: Theoretical physicist Miguel Alcubierre proposed a concept for a warp drive in ____.
+Choices: 1994 | 1972
+Answer: 1994
+Question: Faster-than-light communication might use hypothetical particles called ____.
+Choices: tachyons | lumicons
+Answer: tachyons
+Question: A ship using a warp drive would contract space in front and ____ space behind it.
+Choices: invert | expand
+Answer: expand
+Question: The closest known star system to Earth is ____.
+Choices: Alpha Centauri | Nebula Prime
+Answer: Alpha Centauri
+Question: Some theories suggest that traveling faster than light might result in traveling ____ in time.
+Choices: astral | backward
+Answer: backward
+Question: The Einstein-Rosen bridge is another name for a ____.
+Choices: wormhole | fluxgate
+Answer: wormhole
+Question: The concept of hyperspace is often used in ____ fiction.
+Choices: arcane | science
+Answer: science
+Question: A potential issue with warp drives is the accumulation of ____ radiation.
+Choices: cryon | Hawking
+Answer: Hawking
+Question: Quantum entanglement suggests that information might be transmitted instantly, but not in a way that allows for ____.
+Choices: communication | ultramotion
+Answer: communication
+Question: The Casimir effect demonstrates the existence of ____ energy in empty space.
+Choices: neutrino | vacuum
+Answer: vacuum
+Question: Theoretical faster-than-light drives might require a vast amount of ____.
+Choices: neoflux | energy
+Answer: energy
+Question: If a spaceship could travel faster than light, it might be able to reach distant galaxies in ____ time.
+Choices: cosmic | reduced
+Answer: reduced
+Question: Many scientists remain skeptical of faster-than-light travel because it conflicts with ____ relativity.
+Choices: general | omnidimensional
+Answer: general
+Question: Some science fiction stories suggest that faster-than-light travel would require bending ____.
+Choices: electrowave | spacetime
+Answer: spacetime
+Question: If faster-than-light travel were possible, it could allow for interstellar ____.
+Choices: gyroflux | exploration
+Answer: exploration
+Question: One major challenge of achieving warp drive is the creation of a stable ____ field.
+Choices: magnoquantum | warp
+Answer: warp
